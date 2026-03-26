@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pyodbc
+pandas
+streamlit
+pytest
+requests
+python-dotenv
